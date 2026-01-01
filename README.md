@@ -15,18 +15,18 @@ Currently engaged in intensive study and hands-on lab work (Home Lab / Range).
 * **SIEM & Log Management**: Splunk (Fundamentals)
 * **Scripting**: Python (Automation), Bash
 * **Frameworks**: MITRE ATT&CK, NIST CSF, Cyber Kill Chain
-``
----
 
-### 🔭 Current Focus & Labs
+``---``
 
-| Platform | Focus | Status |
+``### 🔭 Current Focus & Labs``
+
+``| Platform | Focus | Status |
 | :--- | :--- | :--- |
 | **Hack The Box** | Sherlocks (Blue Team Scenarios) | 🟢 Active |
 | **TryHackMe** | Cyber Defense Path | 🟡 In Progress |
 | **Home Lab** | PFsense + Snort Configuration | 🔴 Planned | ``
 
----
+``---``
 
 ### 📈 The Pivot: Finance to Cyber
 
@@ -37,6 +37,5 @@ Currently engaged in intensive study and hands-on lab work (Home Lab / Range).
 ### 📫 Connect & Verify
 
 * 🔗 [LinkedIn](www.linkedin.com/in/sergio-astolfi-1158a738b)
-* 🔑 **PGP Fingerprint**: `Inserisci qui la tua Public Key ID se ne hai una (Consigliato)`
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SerAstolfi&show_icons=true&theme=dark)
