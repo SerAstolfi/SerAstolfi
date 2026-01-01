@@ -16,17 +16,15 @@ Currently engaged in intensive study and hands-on lab work (Home Lab / Range).
 * **Scripting**: Python (Automation), Bash
 * **Frameworks**: MITRE ATT&CK, NIST CSF, Cyber Kill Chain
 
-``---``
+---
 
-``### 🔭 Current Focus & Labs``
+### 🔭 Current Focus & Labs
 
-``| Platform | Focus | Status |
+| Platform | Focus | Status |
 | :--- | :--- | :--- |
-| **Hack The Box** | Sherlocks (Blue Team Scenarios) | 🟢 Active |
-| **TryHackMe** | Cyber Defense Path | 🟡 In Progress |
-| **Home Lab** | PFsense + Snort Configuration | 🔴 Planned | ``
+| **Home Lab** | SMB Brute Force Detection Lab via Splunk | 🟢 Finished |
 
-``---``
+---
 
 ### 📈 The Pivot: Finance to Cyber
 
