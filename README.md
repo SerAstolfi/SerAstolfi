@@ -36,4 +36,4 @@ Currently engaged in intensive study and hands-on lab work (Home Lab / Range).
 
 * 🔗 [LinkedIn](www.linkedin.com/in/sergio-astolfi-1158a738b)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SerAstolfi&show_icons=true&theme=dark)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SerAstolfi&show_icons=true&theme=radical)
