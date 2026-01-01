@@ -1,16 +1,42 @@
-## Hi there 👋
+### Hi there, I'm SerAstolfi 👋
 
-<!--
-**SerAstolfi/SerAstolfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Trainee | Blue Team Focus | Ex-Financial Trader**
 
-Here are some ideas to get you started:
+Pivoting from Trading to Defensive Cybersecurity. Leveraging financial Risk Assessment and Pattern Recognition to drive Cyber Threat Analysis and Threat Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛡️ Defensive Tech Stack & Skills
+
+Currently engaged in intensive study and hands-on lab work (Home Lab / Range).
+
+* **Operating Systems**: Linux (Debian/Kali), Windows Server (AD Lab)
+* **Network Analysis**: Wireshark, tcpdump, Nmap
+* **SIEM & Log Management**: Splunk (Fundamentals)
+* **Scripting**: Python (Automation), Bash
+* **Frameworks**: MITRE ATT&CK, NIST CSF, Cyber Kill Chain
+``
+---
+
+### 🔭 Current Focus & Labs
+
+| Platform | Focus | Status |
+| :--- | :--- | :--- |
+| **Hack The Box** | Sherlocks (Blue Team Scenarios) | 🟢 Active |
+| **TryHackMe** | Cyber Defense Path | 🟡 In Progress |
+| **Home Lab** | PFsense + Snort Configuration | 🔴 Planned | ``
+
+---
+
+### 📈 The Pivot: Finance to Cyber
+
+> "In trading, you protect capital from market volatility. In cyber, you protect assets from threat actors. The mindset is the same: **Zero Trust & Risk Mitigation**."
+
+---
+
+### 📫 Connect & Verify
+
+* 🔗 [LinkedIn](www.linkedin.com/in/sergio-astolfi-1158a738b)
+* 🔑 **PGP Fingerprint**: `Inserisci qui la tua Public Key ID se ne hai una (Consigliato)`
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=dark)
