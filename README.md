@@ -10,10 +10,10 @@ Pivoting from Trading to Defensive Cybersecurity. Leveraging financial Risk Asse
 
 Currently engaged in intensive study and hands-on lab work (Home Lab / Range).
 
-* **Operating Systems**: Linux (Debian/Kali), Windows Server (AD Lab)
-* **Network Analysis**: Wireshark, tcpdump, Nmap
-* **SIEM & Log Management**: Splunk (Fundamentals)
-* **Scripting**: Python (Automation), Bash
+* **Operating Systems**: Linux (Kali), Windows Server (AD Lab)
+* **Network Analysis**: Wireshark, TCPdump, Nmap
+* **SIEM & Log Management**: Splunk (Fundamentals), Sysmon
+* **Scripting**: Python (Automation), Bash, PowerShell
 * **Frameworks**: MITRE ATT&CK, NIST CSF, Cyber Kill Chain
 
 ---
