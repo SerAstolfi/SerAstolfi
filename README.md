@@ -27,6 +27,8 @@ Currently engaged in intensive study and hands-on lab work (Home Lab / Range).
 | **Home Lab** | Automated AD Range with IaC, Behavioral Detection, and SOAR | 🔴 Planned |
 | **Home Lab** | C2 Beaconing Analysis & Network Threat Hunting via Wireshark | 🟢 Finished |
 
+What my last projects that I've finished in my [Cybersecurity Portfolio](https://github.com/SerAstolfi/Cybersecurity-Portfolio)
+
 ---
 
 ### 📈 The Pivot: Finance to Cyber
