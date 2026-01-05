@@ -24,7 +24,7 @@ Currently engaged in intensive study and hands-on lab work (Home Lab / Range).
 | :--- | :--- | :--- |
 | **Try Hack Me** | SOC Level 1 | 🔴 Planned |
 | **ISC2** | Certified in Cybersecurity | 🟡 On Going |
-| **Home Lab** | SMB Brute Force Detection Lab via Splunk | 🟢 Finished |
+| **Home Lab** | Automated AD Range with IaC, Behavioral Detection, and SOAR | 🔴 Planned |
 
 ---
 
