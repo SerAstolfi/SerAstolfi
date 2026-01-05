@@ -25,7 +25,7 @@ Currently engaged in intensive study and hands-on lab work (Home Lab / Range).
 | **Try Hack Me** | SOC Level 1 | 🔴 Planned |
 | **ISC2** | Certified in Cybersecurity | 🟡 On Going |
 | **Home Lab** | Automated AD Range with IaC, Behavioral Detection, and SOAR | 🔴 Planned |
-| **Home Lab** | [C2 Beaconing Analysis & Network Threat Hunting via Wireshark](./Labs/Network_Analysis/C2_Beaconing_Analysis_&_Network_Threat_Hunting) | 🟢 Finished |
+| **Home Lab** | [C2 Beaconing Analysis & Network Threat Hunting via Wireshark](https://github.com/SerAstolfi/Cybersecurity-Portfolio/Labs/Network_Analysis/C2_Beaconing_Analysis_&_Network_Threat_Hunting) | 🟢 Finished |
 
 Watch my last projects in my [Cybersecurity Portfolio](https://github.com/SerAstolfi/Cybersecurity-Portfolio)
 
