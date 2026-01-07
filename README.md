@@ -39,6 +39,6 @@ Watch my last projects in my [Cybersecurity Portfolio](https://github.com/SerAst
 
 ### 📫 Connect & Verify
 
-* 🔗 [LinkedIn](www.linkedin.com/in/sergio-astolfi-1158a738b)
+* 🔗 [LinkedIn](www.linkedin.com/in/sergio-astolfi)
 
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SerAstolfi&show_icons=true&theme=radical)
