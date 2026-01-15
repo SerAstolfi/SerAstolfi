@@ -22,7 +22,7 @@ Currently engaged in intensive study and hands-on lab work (Home Lab / Range).
 
 | Platform | Focus | Status |
 | :--- | :--- | :--- |
-| **LetsDefend** | SOC Analyst Learning Path | 🔴 Planned |
+| **LetsDefend** | SOC Analyst Learning Path | 🟡 On Going |
 | **Home Lab** | Automated AD Range with IaC, Behavioral Detection, and SOAR | 🔴 Planned |
 | **Home Lab** | [C2 Beaconing Analysis & Network Threat Hunting via Wireshark](https://github.com/SerAstolfi/Cybersecurity-Portfolio/tree/main/Labs/Network_Analysis/C2_Beaconing_Analysis_%26_Network_Threat_Hunting) | 🟢 Finished |
 
